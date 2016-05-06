@@ -5,7 +5,8 @@ Edição Ronei
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Portal 6Legends</title>
+        <title></title>
+        
     </head>
     <body>
         <h2>Descrição da Equipe</h2>
