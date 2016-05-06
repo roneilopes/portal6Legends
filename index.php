@@ -1,30 +1,16 @@
 <!DOCTYPE html>
 <!--
-Edição da Aline
+Edição Ronei
 -->
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
-        <style>
-            p {
-                border: 1px solid red;
-                background-color: yellow;
-                padding: 50px 30px 50px 80px;
-            }
-        </style>
+        <title>Portal 6Legends</title>
     </head>
     <body>
-        <h2>Os Dev's</h2>
-        <p>Pandas</p>;
-        
-
+        <h2>Descrição da Equipe</h2>
+        <?php
+        // put your code here
+        ?>
     </body>
-</head>
-<body>
-
-    Edição do Jeferson;
-
-</body>
-
 </html>
