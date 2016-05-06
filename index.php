@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--
-Edição da Aline
+Edição Ronei
 -->
 <html>
     <head>
@@ -9,15 +9,9 @@ Edição da Aline
         
     </head>
     <body>
-        <h2>Os Dev's</h2>
-        <p>Pandas</p>;
-        
+        <h2>Descrição da Equipe</h2>
+        <?php
+        // put your code here
+        ?>
     </body>
-</head>
-<body>
-
-    Edição do Jeferson;
-
-</body>
-
 </html>
