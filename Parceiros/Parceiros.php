@@ -53,7 +53,7 @@
         <div >
             <center>
                <br><br>
-                <a href="http://migre.me/tI1lX"><img src="Logo/Alcalda.PNG" title="Veja o que o nosso parceiro Alcalda está trabalhando"/></a> 
+               <a href="http://migre.me/tI1lX"><img src="Logo/Alcaida.PNG" title="Veja o que o nosso parceiro Alcaida está trabalhando"/></a> 
                 <a href="http://migre.me/tI1kK"><img src="Logo/ERRO.PNG" title="Veja o que o nosso parceiro ERRO-404 está trabalhando"/></a>
                 <a href="http://migre.me/tI1nJ"><img src="Logo/FACÇÃO.PNG" title="Veja o que o nosso parceiro FACÇÃO está trabalhando"/></a>
                 <a href="http://migre.me/tI1sC"><img src="Logo/LADIES.PNG" title="Veja o que o nosso parceiro LADIES está trabalhando"/></a>
@@ -65,7 +65,7 @@
             </center>
         </div>
         <div id="rodape">
-            <h3> © 6Lengends </h3>
+            <h3> © 6Legends </h3>
         </div>
     </body>
 </html>
