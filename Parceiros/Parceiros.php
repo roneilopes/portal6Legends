@@ -53,14 +53,14 @@
         <div >
             <center>
                <br><br>
-                <a href="http://migre.me/tI1lX"><img src="Logo/Alcalda.PNG" alt=""/></a> 
-                <a href="http://migre.me/tI1kK"><img src="Logo/ERRO.PNG" alt=""/></a>
-                <a href="http://migre.me/tI1nJ"><img src="Logo/FACÇÃO.PNG" alt=""/></a>
-                <a href="http://migre.me/tI1sC"><img src="Logo/LADIES.PNG" alt=""/></a>
-                <a href="http://migre.me/tI1tG"><img src="Logo/R-E-P.PNG" alt=""/></a>
-                <a href="http://migre.me/tI1z4"><img src="Logo/TAES-COMPANY.PNG" alt=""/></a>
-                <a href="http://migre.me/tI1A0"><img src="Logo/XABLAU.PNG" alt=""/></a><br><br>
-                <a href="http://migre.me/tI1BD"><img src="Logo/KARDASHIANS.PNG" alt=""/></a>
+                <a href="http://migre.me/tI1lX"><img src="Logo/Alcalda.PNG" title="Veja o que o nosso parceiro Alcalda está trabalhando"/></a> 
+                <a href="http://migre.me/tI1kK"><img src="Logo/ERRO.PNG" title="Veja o que o nosso parceiro ERRO-404 está trabalhando"/></a>
+                <a href="http://migre.me/tI1nJ"><img src="Logo/FACÇÃO.PNG" title="Veja o que o nosso parceiro FACÇÃO está trabalhando"/></a>
+                <a href="http://migre.me/tI1sC"><img src="Logo/LADIES.PNG" title="Veja o que o nosso parceiro LADIES está trabalhando"/></a>
+                <a href="http://migre.me/tI1tG"><img src="Logo/R-E-P.PNG" title="Veja o que o nosso parceiro R-E-P está trabalhando"/></a>
+                <a href="http://migre.me/tI1z4"><img src="Logo/TAES-COMPANY.PNG" title="Veja o que o nosso parceiro TAES-COMPANY está trabalhando"/></a>
+                <a href="http://migre.me/tI1A0"><img src="Logo/XABLAU.PNG" title="Veja o que o nosso parceiro XABLAU está trabalhando"/></a><br><br>
+                <a href="http://migre.me/tI1BD"><img src="Logo/KARDASHIANS.PNG"title="Veja o que o nosso parceiro KARDASHIANS está trabalhando"/></a>
 
             </center>
         </div>
