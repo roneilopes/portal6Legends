@@ -40,7 +40,7 @@
             <h2>PARCEIROS</h2>
         </div>
         <div id="direita">
-            <n> <p>ALCAIRA</p> 
+            <n> <p>ALCAIDA</p> 
                 <p>ERRO-404</p> 
                 <p>FACÇÃO</p> 
                 <p>LADIES</p> 
