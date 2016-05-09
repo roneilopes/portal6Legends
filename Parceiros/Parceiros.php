@@ -65,7 +65,7 @@
             </center>
         </div>
         <div id="rodape">
-            <h3> © 6Legends </h3>
+            <h3> 2016 ©6Legends </h3>
         </div>
     </body>
 </html>

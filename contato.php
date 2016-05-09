@@ -17,6 +17,21 @@ and open the template in the editor.
             body {
                 background-color: whitesmoke;
             }
+            #titulo {
+                background-color:#999999;
+                color:white;
+                text-align:center;
+                padding:5px;
+            }
+            #rodape {
+                position:absolute;
+                bottom:0;
+                width:98%;
+                background-color:#999999;
+                color:white;
+                text-align:center;
+                padding:5px;
+            }
         </style>
     </head>
     <body>
@@ -24,7 +39,6 @@ and open the template in the editor.
             <br>
             <br>
             <h1 align="center">CONTATO</h1>
-
             <p></p>
             <label name="nome">Nome: </label>
             <input type="text" name="nome" size="50px">
@@ -43,8 +57,6 @@ and open the template in the editor.
             <br>
             <br>
             <input type="submit" value="Enviar">
-
-        </form>
-        
+        </form>        
     </body>
 </html>
