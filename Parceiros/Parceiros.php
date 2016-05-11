@@ -20,7 +20,8 @@
                 color:white;
                 clear:both;
                 text-align:center;
-                padding:5px;	 	 
+                padding:5px;
+                position: fixid;
             }
             #direita{
                 line-height:30px;
@@ -40,14 +41,14 @@
             <h2>PARCEIROS</h2>
         </div>
         <div id="direita">
-            <n> <p>ALCAIDA</p> 
-                <p>ERRO-404</p> 
-                <p>FACÇÃO</p> 
-                <p>LADIES</p> 
-                <p>R-E-P</p> 
-                <p>TAES-COMPANY</p> 
-                <p>XABLAU</p> 
-                <p>KARDASHIANS</p> 
+            <n><a href="https://drive.google.com/folderview?id=0BxRVql20HumldVZ3LTlwRGxlT2c&usp=sharing&tid=0BxRVql20HumlbktiVnhFbXFEalU"> <p>ALCAIDA</p></a>
+                <a href="https://drive.google.com/folderview?id=0BxRVql20HumlN09SekkycmExLTg&usp=sharing&tid=0BxRVql20HumlbktiVnhFbXFEalU"><p>ERRO-404</p></a> 
+                <a href="https://drive.google.com/folderview?id=0BxRVql20HumlQ19YUm1TUGU5VlE&usp=sharing&tid=0BxRVql20HumlbktiVnhFbXFEalU"><p>FACÇÃO</p></a> 
+                <a href="https://drive.google.com/folderview?id=0BxRVql20Humla2Q4TUlCLUlocm8&usp=sharing&tid=0BxRVql20HumlbktiVnhFbXFEalU"><p>LADIES</p></a> 
+                <a href="https://drive.google.com/folderview?id=0BxRVql20HumlRkVHRWpyQzZ6QWM&usp=sharing&tid=0BxRVql20HumlbktiVnhFbXFEalU"><p>R-E-P</p></a> 
+                <a href="https://drive.google.com/folderview?id=0BxRVql20HumlWEZHZE5SbHZQZ0k&usp=sharing&tid=0BxRVql20HumlbktiVnhFbXFEalU"><p>TAES-COMPANY</p></a>
+                <a href="https://drive.google.com/folderview?id=0BxRVql20HumlcG9WTFBVWVgwS3M&usp=sharing&tid=0BxRVql20HumlbktiVnhFbXFEalU"><p>XABLAU</p></a> 
+                <a href="https://drive.google.com/folderview?id=0BxRVql20HumlN0xyN1l4ZVNGdGs&usp=sharing&tid=0BxRVql20HumlbktiVnhFbXFEalU"><p>KARDASHIANS</p></a>
             </n>
         </div>
         <div >
