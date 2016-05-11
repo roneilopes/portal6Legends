@@ -9,7 +9,7 @@ ___
 * Charles
 * Aline
 * Marcelo
-* Lucas
+* Lucas Bohrer de Souza
 
 ___
 
