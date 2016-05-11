@@ -8,11 +8,11 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>Fale Conosco</title>
-         <style>
+        <style>
             input {
                 height: 30px;
                 border-style: hidden;
-                
+                align-items: center;
             }
             body {
                 background-color: whitesmoke;
@@ -35,13 +35,16 @@ and open the template in the editor.
         </style>
     </head>
     <body>
+        <div id="titulo">
+            <h2>CONTATO</h2>
+        </div>
         <form>
             <br>
             <br>
-            <h1 align="center">CONTATO</h1>
+            
             <p></p>
             <label name="nome">Nome: </label>
-            <input type="text" name="nome" size="50px">
+            <input type="text" name="nome" size="50px" >
             <br>
             <br>
             <label name="email">E-mail: </label>
@@ -52,11 +55,19 @@ and open the template in the editor.
             <input type="text" name="cidade" size="50px">
             <br>
             <br>
-            <label name="descricao">Descreva seu projeto: </label>
-            <input type="text" name="descricao" size="100px">
+
+            <label name="assunto">Assunto: </label>
+            <input type="text" name="assunto" size="50px">
+            <br>
+            <br>
+            <label name="descricao">Descrição: </label>
+            <input type="text" name="descricao" size="50px">
             <br>
             <br>
             <input type="submit" value="Enviar">
+            <div id="rodape">
+                <h3> 2016 ©6Legends </h3>
+            </div>
         </form>        
     </body>
 </html>
