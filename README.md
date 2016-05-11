@@ -4,11 +4,11 @@ ___
 
 ##Equipe
 
-* Ronei
-* Jeferson
-* Charles
-* Aline
-* Marcelo
+* Ronei Lopes dos Santos
+* Jeferson Souza da Costa
+* Charles Esteffan Cavalcante
+* Aline Oliveira Bellé
+* Marcelo Francisco Sobrinho
 * Lucas Bohrer de Souza
 
 ___
